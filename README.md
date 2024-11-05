@@ -15,5 +15,5 @@ approximation. The control parameter is the meshing size h.
 The second one is the use of a finite dimensional space. In the case of Lagrange polynomials, the control parameters is the degree of the 
 said polynomials.
 
-The third and last one is the quadrature formula to compute integrals in mass and stiffness matrix. This method is usually necessary for 
-polynomials of degree greater than one. If the quadrature is chosen wisely, it can lead to interesting features such as mass lumping of the mass matrix.
+The third and last one is the quadrature formula to compute integrals in Mass and Stiffness matrix. This method is usually necessary for 
+polynomials of degree greater than one. If the quadrature is chosen wisely, it can lead to interesting features of the Mass matrix such as mass lumping.
