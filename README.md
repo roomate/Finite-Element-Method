@@ -5,6 +5,10 @@ presented with their finite-difference and finite volume counterpart, this metho
 wishes to compute numerical solutions in a competitive time. The FEM is part of the class of Direct Methods, in contrast with
 the multi-grid method for example, who belongs to the class of relaxation methods.
 
+The FEM is a method relying heavily on a rigorous theoretical and numerical frameword, making it very complete.
+First, it relies on the variational formulation of PDEs, which itself requires a good knowledge of functional analysis, 
+and numerical linear algebra, quadrature etc...
+
 ## Approximations
 
 The FEM usually relies on three fundamental approximations. 
