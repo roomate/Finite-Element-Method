@@ -1,4 +1,4 @@
-# 🧱 Finite Elements Method
+# 🧱 Finite Element Method
 
 The Finite Elements Method (FEM for short) is a modern numerical tool to solve Partial Differential Equations. Usually
 presented with their finite-difference and finite volume counterpart, this method remains indispensable for whoever 
