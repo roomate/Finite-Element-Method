@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/b5910042-b9ec-4eb2-9649-830edb75b52a/Film_Exo_3_Q6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20241118%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20241118T152614Z&X-Amz-Expires=86400&X-Amz-Signature=36b0caed9fd62bf1d9f405456047c2b883050b8c088a60799232fd3c6cefc96c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Film_Exo_3_Q6.gif%22&response-content-type=image%2Fgif&x-id=GetObject
