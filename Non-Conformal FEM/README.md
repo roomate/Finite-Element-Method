@@ -1,6 +1,9 @@
 # Finite Element Method: Analysis and approximation of PDEs
 
-This repository stores the code of an introductory course to a non-conformal Finite Elements Method, a similar but yet fundamentally different from the first repo 'Finite-Elements-Method' on the matter. Recall that the objective is to approach the unique solution of a well-posed problem via numerical methods. The originality of this project lies in the method of resolution employed, qualified of 'non-conformal'. Here, the term non-conformal signifies that the numerical solution does not lie in the same space than the PDEs' solution; in opposition to conformal methods also called Galerkin methods. It can be proved that the true solution lies in a Sobolev space
+This repository stores the code of an introductory course to a non-conformal Finite Elements Method, a similar but yet fundamentally different from the first repo 'Finite-Elements-Method' on the matter. 
+Recall that the objective is to approach the unique solution of a well-posed problem via numerical methods. 
+The originality of this project lies in the method of resolution employed, qualified of 'non-conformal'. 
+Here, the term non-conformal signifies that the numerical solution does not lie in the same space than the PDEs' solution; in opposition to conformal methods also called Galerkin methods. It can be proved that the true solution lies in a Sobolev space, so that no discontinuity is allowed at the interface of the elements.
 
 Let's give a quick illustration.
 
