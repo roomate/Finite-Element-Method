@@ -11,7 +11,7 @@ The first one is that in all its forms, the FEM is always concerned with the num
 **a variational formulation** of the PDE of concern. The latter being justified with classical arguments of functional analysis, the studend practices an abstract rigorous theoretical framework. 
 Also, the actual resolution requires solid knowledge of numerical algebra and numerical analysis, such as quadrature, matrix factorization...
 
-The second is that it has many applications of paramount importance, in particular in the industrial sector.
+The second reason is that it has many applications of paramount importance, in particular in the industrial sector.
 
 ## Approximations
 
