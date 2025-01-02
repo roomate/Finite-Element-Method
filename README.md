@@ -7,7 +7,7 @@ the multi-grid method for example, who belongs to the class of relaxation method
 
 The FEM is very popular to teach in applied mathematics for at least two reasons. 
 
-The first one is that in all its forms, the FEM is always concerned with the numerical discretisation of
+The first one is that, in all its forms, the FEM always implies the numerical discretisation of
 **a variational formulation** of the PDE of concern. The latter being justified with classical arguments of functional analysis, the studend practices an abstract rigorous theoretical framework. 
 Also, the actual resolution requires solid knowledge of numerical algebra and numerical analysis, such as quadrature, matrix factorization...
 Hence, several facets of applied mathematics are exercised with a unique course, making it very rewarding to learn.
