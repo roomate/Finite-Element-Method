@@ -29,5 +29,6 @@ In the illustrations below, we have the case of a domain separated into two homo
 
 ![](img/Film_Exo_3_Q6.gif)
 
+Note: the speed of the gifs is $\textbf{not}$ representative of the computational speed. It is $\textbf{not}$ an online retransmission of the frame at every iteration.
 
 For more details on the results, please refer to the report.
